@@ -38,7 +38,7 @@ dades-inicials/
 code/
   Scripts utilitzats per netejar, transformar i integrar les dades.
 
-visualization/
+Visualizatió/
   Enllaç a la visualització publicada a Flourish.
 ```
 
