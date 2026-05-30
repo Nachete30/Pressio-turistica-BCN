@@ -32,17 +32,11 @@ Les dades utilitzades provenen de fonts obertes i oficials:
 ## Estructura recomanada del repositori
 
 ```text
-data/raw/
+dades-inicials/
   Fitxers originals descarregats de les fonts oficials.
-
-data/processed/
-  Taules generades després del tractament de dades.
 
 code/
   Scripts utilitzats per netejar, transformar i integrar les dades.
-
-docs/
-  Documentació, memòria del tractament i guió del vídeo.
 
 visualization/
   Enllaç a la visualització publicada a Flourish.
